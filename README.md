@@ -1,4 +1,4 @@
-# atis02
+# Atamyrat Ikramov
 About me
 <h1 align="center">Hi 👋, I'm Atamyrat!</h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
