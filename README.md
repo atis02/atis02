@@ -1,23 +1,23 @@
 # Atamyrat Ikramov
 About me
 <h1 align="center">Hi 👋, I'm Atamyrat!</h1>
-<h3 align="center">A passionate frontend developer from Turkmenistan</h3>
+<h3 align="center">A passionate full stack developer from Turkmenistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atis02&label=Profile%20views&color=0e75b6&style=flat" alt="atis02" /> </p>
 
 - 🔭 I’m currently working on **web-project**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **React js,Node js,Postgres,Express**
 
-- 🤝 I’m looking for help with **react.js**
+- 🤝 I’m looking for help with **React js , Node js,Postgres,Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atis02](https://github.com/atis02)
 
 - 📝 I regularly write articles on [https://github.com/atis02](https://github.com/atis02)
 
-- 💬 Ask me about **react,tailwindcss,js,bootstrap**
+- 💬 Ask me about **react,node,postgres,express,material UI,tailwindcss,javaScript,bootstrap**
 
-- 📫 How to reach me **atamyratikramow@gmail.com**
+- 📫 How to reach me **email:atamyratikramow@gmail.com, telegram:@tmtrader02 **
 
 - ⚡ Fun fact **I think I can easy learn to smth with a big effort.**
 
