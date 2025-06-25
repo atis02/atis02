@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://github.com/atis02">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;I%20am%20Full-stack%20developer;And%20Junior%20App%20developer;2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&color=ffffff&vCenter=true&pause=1000&size=25&width=600" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I%20am%20Atamyrat;I'm%20a%20Full-stack%20developer;And%20Junior%20App%20developer;2%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&color=ffffff&vCenter=true&pause=1000&size=25&width=600" />
   </a>
 </h1>
 <h3 align="center">A passionate full stack developer from Turkmenistan</h3>
