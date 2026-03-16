@@ -27,11 +27,11 @@
 <p align="left">
 
 <a href="https://t.me/tmtrader02" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" />
+<img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram" height="30" width="30" />
 </a>
 
-<a href="https://linkedin.com/in/atamyratikramow" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/atamyrat-ikramov-9a0769285/" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="30" width="30" />
 </a>
 
 <a href="https://instagram.com/atamyratikramow" target="blank">
